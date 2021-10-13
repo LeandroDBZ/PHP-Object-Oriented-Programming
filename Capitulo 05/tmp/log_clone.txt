@@ -1,0 +1,4 @@
+2021-09-16 20:48:15::Clonando um produto
+2021-09-16 20:48:15::SELECT * FROM produto WHERE id = 2
+2021-09-16 20:48:15::SELECT max(id) FROM produto
+2021-09-16 20:48:15::INSERT INTO produto(descricao,estoque,preco_custo,preco_venda,codigo_barras,data_cadastro,origem,id)VALUES('Café(clonado)','52','5','6','765490242','2021-09-06','N',7)

@@ -1,0 +1,2 @@
+2021-09-12 22:05:02::Buscando um produto
+2021-09-12 22:05:02::SELECT * FROM produto WHERE id = 2

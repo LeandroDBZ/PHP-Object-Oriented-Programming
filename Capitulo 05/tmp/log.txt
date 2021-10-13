@@ -1,0 +1,5 @@
+2021-09-11 15:00:35::Inserindo produto novo
+2021-09-11 15:00:35::INSERT INTO produto (id, descricao, estoque, preco_custo,
+            preco_venda, codigo_barras, data_cadastro, origem) VALUES ('5',
+            'Chocolate amargo','80','4',
+            '7','123654789632147','2021-09-11', 'N')

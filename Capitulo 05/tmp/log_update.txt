@@ -1,0 +1,4 @@
+2021-09-15 21:05:32::Alterando um produto
+2021-09-15 21:05:32::SELECT * FROM produto WHERE id = 2
+2021-09-15 21:05:32::SELECT * FROM produto WHERE id = 2
+2021-09-15 21:05:32::UPDATE produto SET descricao = 'Café',estoque = 52,preco_custo = '5',preco_venda = '6',codigo_barras = '765490242',data_cadastro = '2021-09-06',origem = 'N' WHERE id = 2
